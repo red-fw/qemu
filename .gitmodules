@@ -24,7 +24,7 @@
 	url = https://git.qemu.org/git/dtc.git
 [submodule "roms/u-boot"]
 	path = roms/u-boot
-	url = https://git.qemu.org/git/u-boot.git
+	url = https://gitlab.com/qemu-project-mirrors/u-boot.git
 [submodule "roms/skiboot"]
 	path = roms/skiboot
 	url = https://git.qemu.org/git/skiboot.git
@@ -42,7 +42,7 @@
 	url = https://git.qemu.org/git/seabios-hppa.git
 [submodule "roms/u-boot-sam460ex"]
 	path = roms/u-boot-sam460ex
-	url = https://git.qemu.org/git/u-boot-sam460ex.git
+	url = https://gitlab.com/qemu-project-mirrors/u-boot-sam460ex.git
 [submodule "tests/fp/berkeley-testfloat-3"]
 	path = tests/fp/berkeley-testfloat-3
 	url = https://git.qemu.org/git/berkeley-testfloat-3.git
